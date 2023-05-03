@@ -1,14 +1,13 @@
 import Image from 'next/image';
 import { Inter } from 'next/font/google';
+import HomeFeature from '@/components/HomeFeature';
 
 const inter = Inter({ subsets: ['latin'] });
 
 export default function Home() {
 	return (
-		<main
-			className={`flex min-h-screen flex-col items-center justify-between p-24 ${inter.className}`}
-		>
-			<div className="flex flex-col items-center justify-center">
+		<main>
+			{/* <div className="flex flex-col items-center justify-center">
 				<h1 className="text-4xl font-bold text-center">
 					Welcome to <span className="text-blue-600">PolicyTree</span>{' '}.
 				</h1>
@@ -17,7 +16,8 @@ export default function Home() {
 					<span className="text-blue-600">completley pointless data</span> about
 					the insurance industry.
         </h1>
-			</div>
+			</div> */}
+			<HomeFeature></HomeFeature>
 		</main>
 	);
 }
