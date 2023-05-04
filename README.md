@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Notes
+
+- [ ] I am using d3's general update pattern instead of React's virtual DOM. It makes working with certain d3 features, thus I consider the additonal use of refs a worthy tradeoff. 
+
+
 ## Getting Started
 
 First, run the development server:
