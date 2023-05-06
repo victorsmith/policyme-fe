@@ -1,6 +1,8 @@
 import Image from 'next/image';
 import { Inter } from 'next/font/google';
+
 import HomeFeature from '@/components/HomeFeature';
+import Map from '@/components/charts/Map';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -17,7 +19,8 @@ export default function Home() {
 					the insurance industry.
         </h1>
 			</div> */}
-			<HomeFeature></HomeFeature>
+			{/* <HomeFeature></HomeFeature> */}
+			<Map></Map>
 		</main>
 	);
 }

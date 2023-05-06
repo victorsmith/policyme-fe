@@ -1,0 +1,2441 @@
+[
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "14.8",
+    "2016 [YR2016]": "15.1",
+    "2017 [YR2017]": "17.3"
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "10",
+    "2016 [YR2016]": "10.5",
+    "2017 [YR2017]": "11"
+  },
+  {
+    "Country Name": "Algeria",
+    "Country Code": "DZA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "13",
+    "2016 [YR2016]": "12.7",
+    "2017 [YR2017]": "11.4"
+  },
+  {
+    "Country Name": "American Samoa",
+    "Country Code": "ASM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Andorra",
+    "Country Code": "AND",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Angola",
+    "Country Code": "AGO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "21",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Antigua and Barbuda",
+    "Country Code": "ATG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "5.8",
+    "2016 [YR2016]": "8.6",
+    "2017 [YR2017]": "11.2"
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "1.2"
+  },
+  {
+    "Country Name": "Aruba",
+    "Country Code": "ABW",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Australia",
+    "Country Code": "AUS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.8",
+    "2016 [YR2016]": "3.4",
+    "2017 [YR2017]": "3.6"
+  },
+  {
+    "Country Name": "Austria",
+    "Country Code": "AUT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.1",
+    "2016 [YR2016]": "1.2",
+    "2017 [YR2017]": "1.1"
+  },
+  {
+    "Country Name": "Azerbaijan",
+    "Country Code": "AZE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0",
+    "2016 [YR2016]": "0",
+    "2017 [YR2017]": "0"
+  },
+  {
+    "Country Name": "Bahamas, The",
+    "Country Code": "BHS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Bahrain",
+    "Country Code": "BHR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "13.3",
+    "2016 [YR2016]": "12.4",
+    "2017 [YR2017]": "11.6"
+  },
+  {
+    "Country Name": "Barbados",
+    "Country Code": "BRB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Belarus",
+    "Country Code": "BLR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Belgium",
+    "Country Code": "BEL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Belize",
+    "Country Code": "BLZ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "10.4",
+    "2016 [YR2016]": "13.1",
+    "2017 [YR2017]": "14.4"
+  },
+  {
+    "Country Name": "Bermuda",
+    "Country Code": "BMU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Bhutan",
+    "Country Code": "BTN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Bosnia and Herzegovina",
+    "Country Code": "BIH",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.5",
+    "2016 [YR2016]": "1.8",
+    "2017 [YR2017]": "1.3"
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "18.4",
+    "2016 [YR2016]": "21.5",
+    "2017 [YR2017]": "22.8"
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.9",
+    "2016 [YR2016]": "1.8",
+    "2017 [YR2017]": "1.7"
+  },
+  {
+    "Country Name": "British Virgin Islands",
+    "Country Code": "VGB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Brunei Darussalam",
+    "Country Code": "BRN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Bulgaria",
+    "Country Code": "BGR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.9",
+    "2016 [YR2016]": "2.4",
+    "2017 [YR2017]": "2.1"
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "10",
+    "2016 [YR2016]": "10.9",
+    "2017 [YR2017]": "11.7"
+  },
+  {
+    "Country Name": "Burundi",
+    "Country Code": "BDI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Cabo Verde",
+    "Country Code": "CPV",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "9.6"
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "16.9",
+    "2016 [YR2016]": "14.3",
+    "2017 [YR2017]": "14"
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "22.3",
+    "2016 [YR2016]": "26.6",
+    "2017 [YR2017]": "28.2"
+  },
+  {
+    "Country Name": "Canada",
+    "Country Code": "CAN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.6",
+    "2016 [YR2016]": "0.6",
+    "2017 [YR2017]": "0.6"
+  },
+  {
+    "Country Name": "Cayman Islands",
+    "Country Code": "CYM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Central African Republic",
+    "Country Code": "CAF",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Channel Islands",
+    "Country Code": "CHI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.9",
+    "2016 [YR2016]": "3.1",
+    "2017 [YR2017]": "3.4"
+  },
+  {
+    "Country Name": "China",
+    "Country Code": "CHN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Comoros",
+    "Country Code": "COM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "42.6",
+    "2016 [YR2016]": "46.1",
+    "2017 [YR2017]": "49.7"
+  },
+  {
+    "Country Name": "Costa Rica",
+    "Country Code": "CRI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.8",
+    "2016 [YR2016]": "1.9",
+    "2017 [YR2017]": "2.2"
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "6.2",
+    "2016 [YR2016]": "7.5",
+    "2017 [YR2017]": "8.4"
+  },
+  {
+    "Country Name": "Croatia",
+    "Country Code": "HRV",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.6",
+    "2016 [YR2016]": "0.6",
+    "2017 [YR2017]": "0.8"
+  },
+  {
+    "Country Name": "Cuba",
+    "Country Code": "CUB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Curacao",
+    "Country Code": "CUW",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Cyprus",
+    "Country Code": "CYP",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Czechia",
+    "Country Code": "CZE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.7",
+    "2016 [YR2016]": "0",
+    "2017 [YR2017]": "0"
+  },
+  {
+    "Country Name": "Denmark",
+    "Country Code": "DNK",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1",
+    "2016 [YR2016]": "1.1",
+    "2017 [YR2017]": "1.1"
+  },
+  {
+    "Country Name": "Djibouti",
+    "Country Code": "DJI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Dominica",
+    "Country Code": "DMA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "6",
+    "2016 [YR2016]": "7.1",
+    "2017 [YR2017]": "8.4"
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "8.4",
+    "2016 [YR2016]": "8.7",
+    "2017 [YR2017]": "8.6"
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "13.8",
+    "2016 [YR2016]": "13.7",
+    "2017 [YR2017]": "14"
+  },
+  {
+    "Country Name": "Equatorial Guinea",
+    "Country Code": "GNQ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Eritrea",
+    "Country Code": "ERI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Estonia",
+    "Country Code": "EST",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.9",
+    "2016 [YR2016]": "0.8",
+    "2017 [YR2017]": "1"
+  },
+  {
+    "Country Name": "Eswatini",
+    "Country Code": "SWZ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "14.5",
+    "2016 [YR2016]": "15",
+    "2017 [YR2017]": "14.8"
+  },
+  {
+    "Country Name": "Faroe Islands",
+    "Country Code": "FRO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Fiji",
+    "Country Code": "FJI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Finland",
+    "Country Code": "FIN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.4",
+    "2016 [YR2016]": "2.3",
+    "2017 [YR2017]": "2.1"
+  },
+  {
+    "Country Name": "France",
+    "Country Code": "FRA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.6",
+    "2016 [YR2016]": "1.2",
+    "2017 [YR2017]": "0.9"
+  },
+  {
+    "Country Name": "French Polynesia",
+    "Country Code": "PYF",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Gambia, The",
+    "Country Code": "GMB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "23.6",
+    "2017 [YR2017]": "23.6"
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "7",
+    "2016 [YR2016]": "7.9",
+    "2017 [YR2017]": "7.5"
+  },
+  {
+    "Country Name": "Germany",
+    "Country Code": "DEU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1",
+    "2016 [YR2016]": "0.8",
+    "2017 [YR2017]": "0.7"
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "5.1",
+    "2016 [YR2016]": "6",
+    "2017 [YR2017]": "6.9"
+  },
+  {
+    "Country Name": "Gibraltar",
+    "Country Code": "GIB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Greece",
+    "Country Code": "GRC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.6",
+    "2016 [YR2016]": "3.2",
+    "2017 [YR2017]": "3.2"
+  },
+  {
+    "Country Name": "Greenland",
+    "Country Code": "GRL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Grenada",
+    "Country Code": "GRD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "8.3"
+  },
+  {
+    "Country Name": "Guam",
+    "Country Code": "GUM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "16.1",
+    "2016 [YR2016]": "17",
+    "2017 [YR2017]": "17.1"
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "44.3",
+    "2016 [YR2016]": "47.1",
+    "2017 [YR2017]": "49.7"
+  },
+  {
+    "Country Name": "Guinea-Bissau",
+    "Country Code": "GNB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "8.3"
+  },
+  {
+    "Country Name": "Guyana",
+    "Country Code": "GUY",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "14.2",
+    "2016 [YR2016]": "14.1",
+    "2017 [YR2017]": "14.1"
+  },
+  {
+    "Country Name": "Hong Kong SAR, China",
+    "Country Code": "HKG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Hungary",
+    "Country Code": "HUN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.4",
+    "2016 [YR2016]": "1.1",
+    "2017 [YR2017]": "0.9"
+  },
+  {
+    "Country Name": "Iceland",
+    "Country Code": "ISL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.7",
+    "2016 [YR2016]": "1.7",
+    "2017 [YR2017]": "1.5"
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.7",
+    "2016 [YR2016]": "0.9",
+    "2017 [YR2017]": "0.9"
+  },
+  {
+    "Country Name": "Iran, Islamic Rep.",
+    "Country Code": "IRN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "9.5",
+    "2016 [YR2016]": "9.3",
+    "2017 [YR2017]": "8.7"
+  },
+  {
+    "Country Name": "Iraq",
+    "Country Code": "IRQ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Ireland",
+    "Country Code": "IRL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "3.4",
+    "2016 [YR2016]": "2.8",
+    "2017 [YR2017]": "2.9"
+  },
+  {
+    "Country Name": "Isle of Man",
+    "Country Code": "IMN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Israel",
+    "Country Code": "ISR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.3",
+    "2016 [YR2016]": "1.4",
+    "2017 [YR2017]": "1.6"
+  },
+  {
+    "Country Name": "Italy",
+    "Country Code": "ITA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.2",
+    "2016 [YR2016]": "1.1",
+    "2017 [YR2017]": "1.1"
+  },
+  {
+    "Country Name": "Jamaica",
+    "Country Code": "JAM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "25.3",
+    "2016 [YR2016]": "24.8",
+    "2017 [YR2017]": "24.5"
+  },
+  {
+    "Country Name": "Japan",
+    "Country Code": "JPN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0",
+    "2016 [YR2016]": "0",
+    "2017 [YR2017]": "0.5"
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "14.3",
+    "2016 [YR2016]": "13.4",
+    "2017 [YR2017]": "12.7"
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country Code": "KAZ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "0"
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "15",
+    "2016 [YR2016]": "17.9",
+    "2017 [YR2017]": "21.6"
+  },
+  {
+    "Country Name": "Kiribati",
+    "Country Code": "KIR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Korea, Dem. People's Rep.",
+    "Country Code": "PRK",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Korea, Rep.",
+    "Country Code": "KOR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0",
+    "2016 [YR2016]": "0",
+    "2017 [YR2017]": "0"
+  },
+  {
+    "Country Name": "Kosovo",
+    "Country Code": "XKX",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Kuwait",
+    "Country Code": "KWT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "4.9",
+    "2016 [YR2016]": "4.9",
+    "2017 [YR2017]": "4.9"
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "0.8"
+  },
+  {
+    "Country Name": "Lao PDR",
+    "Country Code": "LAO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Latvia",
+    "Country Code": "LVA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.6",
+    "2016 [YR2016]": "0.6",
+    "2017 [YR2017]": "0.6"
+  },
+  {
+    "Country Name": "Lebanon",
+    "Country Code": "LBN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "38.6",
+    "2016 [YR2016]": "38.4",
+    "2017 [YR2017]": "38.3"
+  },
+  {
+    "Country Name": "Libya",
+    "Country Code": "LBY",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "11.2",
+    "2016 [YR2016]": "12.4",
+    "2017 [YR2017]": "14.3"
+  },
+  {
+    "Country Name": "Liechtenstein",
+    "Country Code": "LIE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Lithuania",
+    "Country Code": "LTU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.5",
+    "2016 [YR2016]": "2",
+    "2017 [YR2017]": "1.6"
+  },
+  {
+    "Country Name": "Luxembourg",
+    "Country Code": "LUX",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.8",
+    "2016 [YR2016]": "1.4",
+    "2017 [YR2017]": "0.9"
+  },
+  {
+    "Country Name": "Macao SAR, China",
+    "Country Code": "MAC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "47.7",
+    "2016 [YR2016]": "48.5",
+    "2017 [YR2017]": "49.7"
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "7.8",
+    "2016 [YR2016]": "6.7",
+    "2017 [YR2017]": "6.7"
+  },
+  {
+    "Country Name": "Maldives",
+    "Country Code": "MDV",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Malta",
+    "Country Code": "MLT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.5",
+    "2016 [YR2016]": "1.4",
+    "2017 [YR2017]": "1"
+  },
+  {
+    "Country Name": "Marshall Islands",
+    "Country Code": "MHL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "4.6",
+    "2016 [YR2016]": "5",
+    "2017 [YR2017]": "5.5"
+  },
+  {
+    "Country Name": "Mauritius",
+    "Country Code": "MUS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "5.2",
+    "2016 [YR2016]": "5.9",
+    "2017 [YR2017]": "6.3"
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "3.6",
+    "2016 [YR2016]": "3.3",
+    "2017 [YR2017]": "3.3"
+  },
+  {
+    "Country Name": "Micronesia, Fed. Sts.",
+    "Country Code": "FSM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Moldova",
+    "Country Code": "MDA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.6",
+    "2016 [YR2016]": "2.2",
+    "2017 [YR2017]": "2.9"
+  },
+  {
+    "Country Name": "Monaco",
+    "Country Code": "MCO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "3.4",
+    "2016 [YR2016]": "5.1",
+    "2017 [YR2017]": "5.9"
+  },
+  {
+    "Country Name": "Montenegro",
+    "Country Code": "MNE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.1",
+    "2016 [YR2016]": "2.2",
+    "2017 [YR2017]": "2.3"
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "6",
+    "2016 [YR2016]": "5.1",
+    "2017 [YR2017]": "5.7"
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "40.7"
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "28.9",
+    "2016 [YR2016]": "29.6",
+    "2017 [YR2017]": "30.5"
+  },
+  {
+    "Country Name": "Nauru",
+    "Country Code": "NRU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Nepal",
+    "Country Code": "NPL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "10.4",
+    "2016 [YR2016]": "9.6",
+    "2017 [YR2017]": "9.6"
+  },
+  {
+    "Country Name": "Netherlands",
+    "Country Code": "NLD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.5",
+    "2016 [YR2016]": "1.7",
+    "2017 [YR2017]": "1.5"
+  },
+  {
+    "Country Name": "New Caledonia",
+    "Country Code": "NCL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "New Zealand",
+    "Country Code": "NZL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.8",
+    "2016 [YR2016]": "3.3",
+    "2017 [YR2017]": "4.2"
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "10"
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "11",
+    "2016 [YR2016]": "12.3",
+    "2017 [YR2017]": "13.6"
+  },
+  {
+    "Country Name": "North Macedonia",
+    "Country Code": "MKD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "3.6",
+    "2016 [YR2016]": "3.1",
+    "2017 [YR2017]": "3.1"
+  },
+  {
+    "Country Name": "Northern Mariana Islands",
+    "Country Code": "MNP",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Norway",
+    "Country Code": "NOR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.1",
+    "2016 [YR2016]": "1.2",
+    "2017 [YR2017]": "1.1"
+  },
+  {
+    "Country Name": "Oman",
+    "Country Code": "OMN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.9",
+    "2016 [YR2016]": "0.8",
+    "2017 [YR2017]": "1.3"
+  },
+  {
+    "Country Name": "Palau",
+    "Country Code": "PLW",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Papua New Guinea",
+    "Country Code": "PNG",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.2",
+    "2016 [YR2016]": "1.5",
+    "2017 [YR2017]": "2.6"
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "13.5",
+    "2016 [YR2016]": "16.7",
+    "2017 [YR2017]": "16.6"
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Poland",
+    "Country Code": "POL",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.8",
+    "2016 [YR2016]": "1.2",
+    "2017 [YR2017]": "0.7"
+  },
+  {
+    "Country Name": "Portugal",
+    "Country Code": "PRT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "4.1",
+    "2016 [YR2016]": "3.5",
+    "2017 [YR2017]": "3.2"
+  },
+  {
+    "Country Name": "Puerto Rico",
+    "Country Code": "PRI",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Qatar",
+    "Country Code": "QAT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "5.6",
+    "2016 [YR2016]": "4.8",
+    "2017 [YR2017]": "4"
+  },
+  {
+    "Country Name": "Russian Federation",
+    "Country Code": "RUS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.7",
+    "2016 [YR2016]": "0.7",
+    "2017 [YR2017]": "0.6"
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Samoa",
+    "Country Code": "WSM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "3.4"
+  },
+  {
+    "Country Name": "San Marino",
+    "Country Code": "SMR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Sao Tome and Principe",
+    "Country Code": "STP",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Saudi Arabia",
+    "Country Code": "SAU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "7.5",
+    "2016 [YR2016]": "7.2",
+    "2017 [YR2017]": "7"
+  },
+  {
+    "Country Name": "Serbia",
+    "Country Code": "SRB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.7",
+    "2016 [YR2016]": "2.3",
+    "2017 [YR2017]": "1.9"
+  },
+  {
+    "Country Name": "Seychelles",
+    "Country Code": "SYC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "3.2",
+    "2016 [YR2016]": "3.2",
+    "2017 [YR2017]": "3.2"
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "26.7",
+    "2016 [YR2016]": "31.9",
+    "2017 [YR2017]": "32.6"
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1",
+    "2016 [YR2016]": "1.2",
+    "2017 [YR2017]": "1.4"
+  },
+  {
+    "Country Name": "Sint Maarten (Dutch part)",
+    "Country Code": "SXM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Slovak Republic",
+    "Country Code": "SVK",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.1",
+    "2016 [YR2016]": "0.9",
+    "2017 [YR2017]": "0.9"
+  },
+  {
+    "Country Name": "Slovenia",
+    "Country Code": "SVN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.9",
+    "2016 [YR2016]": "0.8",
+    "2017 [YR2017]": "0.6"
+  },
+  {
+    "Country Name": "Solomon Islands",
+    "Country Code": "SLB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Somalia",
+    "Country Code": "SOM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "South Sudan",
+    "Country Code": "SSD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "65.4"
+  },
+  {
+    "Country Name": "Spain",
+    "Country Code": "ESP",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.1",
+    "2016 [YR2016]": "1.3",
+    "2017 [YR2017]": "1.4"
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.7",
+    "2016 [YR2016]": "0.6",
+    "2017 [YR2017]": "0.6"
+  },
+  {
+    "Country Name": "St. Kitts and Nevis",
+    "Country Code": "KNA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "8.1",
+    "2016 [YR2016]": "8.1",
+    "2017 [YR2017]": "8.1"
+  },
+  {
+    "Country Name": "St. Lucia",
+    "Country Code": "LCA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "4.5",
+    "2016 [YR2016]": "4.5",
+    "2017 [YR2017]": "4.5"
+  },
+  {
+    "Country Name": "St. Martin (French part)",
+    "Country Code": "MAF",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "St. Vincent and the Grenadines",
+    "Country Code": "VCT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "10.3"
+  },
+  {
+    "Country Name": "Sudan",
+    "Country Code": "SDN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "13.4",
+    "2016 [YR2016]": "14.4",
+    "2017 [YR2017]": "15.4"
+  },
+  {
+    "Country Name": "Suriname",
+    "Country Code": "SUR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Sweden",
+    "Country Code": "SWE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "0.8",
+    "2016 [YR2016]": "1",
+    "2017 [YR2017]": "1"
+  },
+  {
+    "Country Name": "Switzerland",
+    "Country Code": "CHE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.5",
+    "2016 [YR2016]": "1.3",
+    "2017 [YR2017]": "0.8"
+  },
+  {
+    "Country Name": "Syrian Arab Republic",
+    "Country Code": "SYR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Tajikistan",
+    "Country Code": "TJK",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "20.6",
+    "2016 [YR2016]": "24.8",
+    "2017 [YR2017]": "25.6"
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "4.2",
+    "2016 [YR2016]": "5.8",
+    "2017 [YR2017]": "7.2"
+  },
+  {
+    "Country Name": "Timor-Leste",
+    "Country Code": "TLS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "16.1",
+    "2016 [YR2016]": "16.3",
+    "2017 [YR2017]": "15.8"
+  },
+  {
+    "Country Name": "Tonga",
+    "Country Code": "TON",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Trinidad and Tobago",
+    "Country Code": "TTO",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "9.1",
+    "2016 [YR2016]": "9.3",
+    "2017 [YR2017]": "9.1"
+  },
+  {
+    "Country Name": "Turkiye",
+    "Country Code": "TUR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Turkmenistan",
+    "Country Code": "TKM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Turks and Caicos Islands",
+    "Country Code": "TCA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Tuvalu",
+    "Country Code": "TUV",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "19.2",
+    "2016 [YR2016]": "22.3",
+    "2017 [YR2017]": "24.5"
+  },
+  {
+    "Country Name": "Ukraine",
+    "Country Code": "UKR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2",
+    "2016 [YR2016]": "2.2",
+    "2017 [YR2017]": "2"
+  },
+  {
+    "Country Name": "United Arab Emirates",
+    "Country Code": "ARE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "United Kingdom",
+    "Country Code": "GBR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.9",
+    "2016 [YR2016]": "2.1",
+    "2017 [YR2017]": "1.7"
+  },
+  {
+    "Country Name": "United States",
+    "Country Code": "USA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.1",
+    "2016 [YR2016]": "1",
+    "2017 [YR2017]": "0.9"
+  },
+  {
+    "Country Name": "Uruguay",
+    "Country Code": "URY",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "6.8",
+    "2016 [YR2016]": "7.6",
+    "2017 [YR2017]": "7.4"
+  },
+  {
+    "Country Name": "Uzbekistan",
+    "Country Code": "UZB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.9",
+    "2016 [YR2016]": "2.1",
+    "2017 [YR2017]": "2.2"
+  },
+  {
+    "Country Name": "Vanuatu",
+    "Country Code": "VUT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Venezuela, RB",
+    "Country Code": "VEN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Vietnam",
+    "Country Code": "VNM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "0"
+  },
+  {
+    "Country Name": "Virgin Islands (U.S.)",
+    "Country Code": "VIR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "West Bank and Gaza",
+    "Country Code": "PSE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": "4.4"
+  },
+  {
+    "Country Name": "Yemen, Rep.",
+    "Country Code": "YEM",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "22.4",
+    "2016 [YR2016]": "23.8",
+    "2017 [YR2017]": "24.1"
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "35.5",
+    "2016 [YR2016]": "36.7",
+    "2017 [YR2017]": "35.9"
+  },
+  {
+    "Country Name": "Africa Eastern and Southern",
+    "Country Code": "AFE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Africa Western and Central",
+    "Country Code": "AFW",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Arab World",
+    "Country Code": "ARB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Caribbean small states",
+    "Country Code": "CSS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Central Europe and the Baltics",
+    "Country Code": "CEB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Early-demographic dividend",
+    "Country Code": "EAR",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "East Asia & Pacific",
+    "Country Code": "EAS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.2",
+    "2016 [YR2016]": "1.8",
+    "2017 [YR2017]": "2.1"
+  },
+  {
+    "Country Name": "East Asia & Pacific (excluding high income)",
+    "Country Code": "EAP",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.3",
+    "2016 [YR2016]": "1.9",
+    "2017 [YR2017]": "2.2"
+  },
+  {
+    "Country Name": "East Asia & Pacific (IDA & IBRD countries)",
+    "Country Code": "TEA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Euro area",
+    "Country Code": "EMU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Europe & Central Asia",
+    "Country Code": "ECS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.9",
+    "2016 [YR2016]": "1.9",
+    "2017 [YR2017]": "1.9"
+  },
+  {
+    "Country Name": "Europe & Central Asia (excluding high income)",
+    "Country Code": "ECA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "2.3",
+    "2016 [YR2016]": "2.5",
+    "2017 [YR2017]": "2.5"
+  },
+  {
+    "Country Name": "Europe & Central Asia (IDA & IBRD countries)",
+    "Country Code": "TEC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "European Union",
+    "Country Code": "EUU",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Fragile and conflict affected situations",
+    "Country Code": "FCS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Heavily indebted poor countries (HIPC)",
+    "Country Code": "HPC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "High income",
+    "Country Code": "HIC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1.7",
+    "2016 [YR2016]": "1.7",
+    "2017 [YR2017]": "1.7"
+  },
+  {
+    "Country Name": "IBRD only",
+    "Country Code": "IBD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "IDA & IBRD total",
+    "Country Code": "IBT",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "IDA blend",
+    "Country Code": "IDB",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "IDA only",
+    "Country Code": "IDX",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "IDA total",
+    "Country Code": "IDA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Late-demographic dividend",
+    "Country Code": "LTE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Latin America & Caribbean",
+    "Country Code": "LCN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "7.5",
+    "2016 [YR2016]": "9",
+    "2017 [YR2017]": "10"
+  },
+  {
+    "Country Name": "Latin America & Caribbean (excluding high income)",
+    "Country Code": "LAC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "7.3",
+    "2016 [YR2016]": "8.9",
+    "2017 [YR2017]": "9.9"
+  },
+  {
+    "Country Name": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "Country Code": "TLA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Least developed countries: UN classification",
+    "Country Code": "LDC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Low & middle income",
+    "Country Code": "LMY",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "9.19804791342122",
+    "2016 [YR2016]": "9.38922098898898",
+    "2017 [YR2017]": "9.90341039023544"
+  },
+  {
+    "Country Name": "Low income",
+    "Country Code": "LIC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "23.3",
+    "2016 [YR2016]": "24.1",
+    "2017 [YR2017]": "24.7"
+  },
+  {
+    "Country Name": "Lower middle income",
+    "Country Code": "LMC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "12.7",
+    "2016 [YR2016]": "12.4",
+    "2017 [YR2017]": "13.1"
+  },
+  {
+    "Country Name": "Middle East & North Africa",
+    "Country Code": "MEA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "9.5",
+    "2016 [YR2016]": "10.1",
+    "2017 [YR2017]": "10.1"
+  },
+  {
+    "Country Name": "Middle East & North Africa (excluding high income)",
+    "Country Code": "MNA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "10.1",
+    "2016 [YR2016]": "10.7",
+    "2017 [YR2017]": "10.6"
+  },
+  {
+    "Country Name": "Middle East & North Africa (IDA & IBRD countries)",
+    "Country Code": "TMN",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Middle income",
+    "Country Code": "MIC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "8.13250295570959",
+    "2016 [YR2016]": "8.14263861872458",
+    "2017 [YR2017]": "8.66620789120255"
+  },
+  {
+    "Country Name": "North America",
+    "Country Code": "NAC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "1",
+    "2016 [YR2016]": "1",
+    "2017 [YR2017]": "0.8"
+  },
+  {
+    "Country Name": "Not classified",
+    "Country Code": "INX",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "OECD members",
+    "Country Code": "OED",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Other small states",
+    "Country Code": "OSS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Pacific island small states",
+    "Country Code": "PSS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Post-demographic dividend",
+    "Country Code": "PST",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Pre-demographic dividend",
+    "Country Code": "PRE",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Small states",
+    "Country Code": "SST",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "South Asia",
+    "Country Code": "SAS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "15",
+    "2016 [YR2016]": "13.3",
+    "2017 [YR2017]": "13.5"
+  },
+  {
+    "Country Name": "South Asia (IDA & IBRD)",
+    "Country Code": "TSA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Sub-Saharan Africa",
+    "Country Code": "SSF",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "20.1",
+    "2016 [YR2016]": "21.6",
+    "2017 [YR2017]": "22.5"
+  },
+  {
+    "Country Name": "Sub-Saharan Africa (excluding high income)",
+    "Country Code": "SSA",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "20.2",
+    "2016 [YR2016]": "21.7",
+    "2017 [YR2017]": "22.5"
+  },
+  {
+    "Country Name": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "Country Code": "TSS",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "..",
+    "2016 [YR2016]": "..",
+    "2017 [YR2017]": ".."
+  },
+  {
+    "Country Name": "Upper middle income",
+    "Country Code": "UMC",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "3.4",
+    "2016 [YR2016]": "3.8",
+    "2017 [YR2017]": "4.2"
+  },
+  {
+    "Country Name": "World",
+    "Country Code": "WLD",
+    "Series Name": "Prevalence of severe food insecurity in the population (%)",
+    "Series Code": "SN.ITK.SVFI.ZS",
+    "2015 [YR2015]": "8.2",
+    "2016 [YR2016]": "8.4",
+    "2017 [YR2017]": "8.9"
+  },
+  {
+    "Country Name": "",
+    "Country Code": "",
+    "Series Name": "",
+    "Series Code": "",
+    "2015 [YR2015]": "",
+    "2016 [YR2016]": "",
+    "2017 [YR2017]": ""
+  },
+  {
+    "Country Name": "",
+    "Country Code": "",
+    "Series Name": "",
+    "Series Code": "",
+    "2015 [YR2015]": "",
+    "2016 [YR2016]": "",
+    "2017 [YR2017]": ""
+  },
+  {
+    "Country Name": "",
+    "Country Code": "",
+    "Series Name": "",
+    "Series Code": "",
+    "2015 [YR2015]": "",
+    "2016 [YR2016]": "",
+    "2017 [YR2017]": ""
+  },
+  {
+    "Country Name": "Data from database: World Development Indicators",
+    "Country Code": "",
+    "Series Name": "",
+    "Series Code": "",
+    "2015 [YR2015]": "",
+    "2016 [YR2016]": "",
+    "2017 [YR2017]": ""
+  },
+  {
+    "Country Name": "Last Updated: 03/30/2023",
+    "Country Code": "",
+    "Series Name": "",
+    "Series Code": "",
+    "2015 [YR2015]": "",
+    "2016 [YR2016]": "",
+    "2017 [YR2017]": ""
+  }
+]
