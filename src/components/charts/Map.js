@@ -9,6 +9,8 @@ import wb_data from '../../../public/data/wb_food_data.json';
 
 import useChartDimensions from '@/hooks/useChartDimensions';
 
+function HoverBox({}) {}
+
 function Map() {
 	const [geodata, setGeodata] = useState(null);
 	const [worldBankData, setWorldBankData] = useState(null);
@@ -21,7 +23,10 @@ function Map() {
 	const projection = d3
 		.geoEqualEarth()
 		.fitWidth(dimensions.boundedWidth, sphere);
+
 	const geoPath = d3.geoPath(projection);
+
+	console.log('dimensions', dimensions);
 
 	// size the svg to fit the height of the map
 	const [[x0, y0], [x1, y1]] = geoPath.bounds(sphere);
@@ -90,11 +95,12 @@ function Map() {
 			style={{
 				width: '100%',
 				display: 'flex',
+				flexDirection: 'column',
 				justifyContent: 'center',
 				alignItems: 'center',
 			}}
 		>
-			<svg width={dimensions.width} height={height}>
+			<svg width={dimensions.boundedWidth} height={height}>
 				<defs>
 					{/* Everything outside the circle will be clipped and therefore invisible. */}
 					<clipPath id="map_sphere">
@@ -102,10 +108,18 @@ function Map() {
 					</clipPath>
 				</defs>
 
+				<defs>
+					<linearGradient id="gradient">
+						<stop offset="0%" stopColor="#e4e4e8" />
+						<stop offset="100%" stopColor="#61ad47" />
+					</linearGradient>
+				</defs>
+
 				{/* Draw the earth */}
 				<path d={geoPath(sphere)} fill="#4761ad" color="#f2f2f7"></path>
 
 				{/* Draw the countries within the boundries established by clipPath*/}
+
 				<g clipPath="url(#map_sphere)">
 					{/* Draw some graticules */}
 					<path
@@ -113,6 +127,7 @@ function Map() {
 						fill="none"
 						stroke="#fff"
 						strokeWidth="0.5"
+						strokeOpacity="0.5"
 					/>
 
 					{/* Draw the countries */}
@@ -135,11 +150,50 @@ function Map() {
 									stroke="#e4e4e8"
 									strokeWidth="0.5"
 									opacity={metricValue ? 1 : 0.5}
+									onMouseOver={() =>
+										console.log('feature', feature)
+									}
 								/>
 							);
 						})}
 				</g>
 			</svg>
+
+			<div style={{ margin: '1rem 0 0 0' }}>
+				<h5>{metric}</h5>
+				<svg>
+					{/* Draw Legend */}
+					<g>
+						<text
+							y={-20}
+							style={{ fontSize: '12px', fontWeight: 'bold' }}
+						>
+							{metric}
+						</text>
+						<rect
+							x={100}
+							height={16}
+							width={dimensions.boundedWidth / 2}
+							style={{
+								fill: 'url(#gradient)',
+							}}
+						></rect>
+						<g>
+							<text x={100} y={40} style={{ fontSize: '12px' }}>
+								0%
+							</text>
+
+							<text
+								x={270}
+								y={40}
+								style={{ fontSize: '12px' }}
+							>
+								{d3.max(Object.values(metricDataByCountry))}%
+							</text>
+						</g>
+					</g>
+				</svg>
+			</div>
 		</div>
 	);
 }
