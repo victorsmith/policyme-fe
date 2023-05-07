@@ -161,38 +161,26 @@ function Map() {
 
 			<div style={{ margin: '1rem 0 0 0' }}>
 				<h5>{metric}</h5>
-				<svg>
-					{/* Draw Legend */}
-					<g>
-						<text
-							y={-20}
-							style={{ fontSize: '12px', fontWeight: 'bold' }}
-						>
-							{metric}
-						</text>
-						<rect
-							x={100}
-							height={16}
-							width={dimensions.boundedWidth / 2}
-							style={{
-								fill: 'url(#gradient)',
-							}}
-						></rect>
+				<div style={{ display: 'flex' }}>
+					<span>
+            0%
+          </span>		
+					<svg>
+						{/* Draw Legend */}
 						<g>
-							<text x={100} y={40} style={{ fontSize: '12px' }}>
-								0%
-							</text>
-
-							<text
-								x={270}
-								y={40}
-								style={{ fontSize: '12px' }}
-							>
-								{d3.max(Object.values(metricDataByCountry))}%
-							</text>
+							<rect
+								height={16}
+								width={190}
+								style={{
+									fill: 'url(#gradient)',
+								}}
+							></rect>
 						</g>
-					</g>
-				</svg>
+					</svg>
+					<span>
+            {d3.max(Object.values(metricDataByCountry))}%
+          </span>		
+				</div>
 			</div>
 		</div>
 	);
