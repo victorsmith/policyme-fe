@@ -9,41 +9,33 @@ import wb_data from '../../../public/data/wb_food_data.json';
 
 import useChartDimensions from '@/hooks/useChartDimensions';
 
-// async function readCSV() {
-//   const csv = await fs.readFile(wb_data);
-//   const csvString = csv.toString('utf-8');
-//   return papa.parse(csv, { worker: true, header: true }).data;
-// }
-
 function Map() {
 	const [geodata, setGeodata] = useState(null);
 	const [worldBankData, setWorldBankData] = useState(null);
 	const [metricDataByCountry, setMetricDataByCountry] = useState({});
+	const [colourScale, setColourScale] = useState();
 
-	// D3 Setup Params
+	// # D3 Setup Params
 	const [ref, dimensions] = useChartDimensions({});
-
-  console.log("~Ref", ref)
-  console.log("~Dimensions", dimensions)
-  
-	// Set boundedWidth by subtracting the left and right margins widths from the total width
-	// dimensions.boundedWidth =
-	// 	dimensions.width - dimensions.margin.left - dimensions.margin.right;
-
-	const countryNameAccessor = (d) => d.properties.NAME;
-	const countryIDAccessor = (d) => d.properties.ADM0_A3_IS;
-	const metric = 'Prevalence of severe food insecurity in the population (%)';
-
 	const sphere = { type: 'Sphere' };
 	const projection = d3
 		.geoEqualEarth()
 		.fitWidth(dimensions.boundedWidth, sphere);
-	const pathGenerator = d3.geoPath(projection);
+	const geoPath = d3.geoPath(projection);
 
-	console.log('pathGenerator', pathGenerator);
+	// size the svg to fit the height of the map
+	const [[x0, y0], [x1, y1]] = geoPath.bounds(sphere);
+	const height = y1;
 
+	console.log('height', height);
 
+	// Accessor Functions
+	const countryNameAccessor = (d) => d.properties.NAME;
+	const countryIDAccessor = (d) => d.properties.ADM0_A3_US;
 
+	const metric = 'Prevalence of severe food insecurity in the population (%)';
+
+	// # Handle Data Fetching
 	async function getData() {
 		// geodata will be fetched via the API later
 		setGeodata(geo_data);
@@ -74,7 +66,82 @@ function Map() {
 		}
 	}, [geodata, worldBankData]);
 
-	return <div ref={ref}></div>;
+	useEffect(() => {
+		const metricValues = Object.values(metricDataByCountry);
+		const metricValueExtent = d3.extent(metricValues);
+
+		// Swap the min of ".." to 0 for the scale function
+		// We will use a special case for ".." in the fill function
+		metricValueExtent[0] = 0;
+		const domainValues = [-1, ...metricValueExtent];
+
+		const colourScale = d3
+			.scaleLinear()
+			.domain(domainValues)
+			.range(['#000000', '#e4e4e8', '#61ad47']);
+
+		console.log('metricDataByCountry', metricDataByCountry);
+		setColourScale(() => colourScale);
+	}, [metricDataByCountry]);
+
+	return (
+		<div
+			ref={ref}
+			style={{
+				width: '100%',
+				display: 'flex',
+				justifyContent: 'center',
+				alignItems: 'center',
+			}}
+		>
+			<svg width={dimensions.width} height={height}>
+				<defs>
+					{/* Everything outside the circle will be clipped and therefore invisible. */}
+					<clipPath id="map_sphere">
+						<path d={geoPath(sphere)} />
+					</clipPath>
+				</defs>
+
+				{/* Draw the earth */}
+				<path d={geoPath(sphere)} fill="#4761ad" color="#f2f2f7"></path>
+
+				{/* Draw the countries within the boundries established by clipPath*/}
+				<g clipPath="url(#map_sphere)">
+					{/* Draw some graticules */}
+					<path
+						d={geoPath(d3.geoGraticule10())}
+						fill="none"
+						stroke="#fff"
+						strokeWidth="0.5"
+					/>
+
+					{/* Draw the countries */}
+					{geodata &&
+						colourScale &&
+						geodata.features.map((feature, i) => {
+							{
+								/* Get the metric data. If the value is "..", assign 0 val */
+							}
+							const metricValue =
+								metricDataByCountry[
+									countryIDAccessor(feature)
+								] || -1;
+
+							return (
+								<path
+									key={i}
+									d={geoPath(feature)}
+									fill={colourScale(metricValue)}
+									stroke="#e4e4e8"
+									strokeWidth="0.5"
+									opacity={metricValue ? 1 : 0.5}
+								/>
+							);
+						})}
+				</g>
+			</svg>
+		</div>
+	);
 }
 
 export default Map;
