@@ -232,8 +232,8 @@ function Map() {
 						id="hoverMark"
 						cx={hoverData.x}
 						cy={hoverData.y}
-						r={4}
-						fill="red"
+						r={2}
+						fill="bg-orange-200"
 						style={{ opacity: `${visiblity}` }}
 					></circle>
 				</svg>
@@ -246,7 +246,7 @@ function Map() {
 				>
 					{metric}
 				</h6>
-				{/* <span>{d3.max(Object.values(metricDataByCountry))}%</span> */}
+				{/* <span><svg></svg><span> */}
 				<svg height={legendHeight} width={dimensions.boundedWidth}>
 					<defs>
 						<linearGradient id="gradient">

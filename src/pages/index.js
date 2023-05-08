@@ -19,7 +19,7 @@ export default function Home() {
 					the insurance industry.
         </h1>
 			</div> */}
-			{/* <HomeFeature></HomeFeature> */}
+			<HomeFeature></HomeFeature>
 			<Map></Map>
 		</main>
 	);
