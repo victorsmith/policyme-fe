@@ -22,6 +22,7 @@ function Map() {
 		x: 0,
 		y: 0,
 	});
+	const [visiblity, setVisiblity] = useState(0);
 
 	// # D3 Setup Params
 	const [ref, dimensions] = useChartDimensions({});
@@ -105,25 +106,24 @@ function Map() {
 		const metricValue = metricDataByCountry[countryId] || 'nil';
 		const [x, y] = geoPath.centroid(datum);
 
+		// tooltip.style('opacity', '1');
+		// const hoverMark = d3.select('#hoverMark').style('opacity', '1');
+		// console.log('mouseEnter', datum);
+
 		setHoverData({
 			country: countryNameAccessor(datum),
 			stat: metricValue,
 			x: x,
 			y: y,
 		});
-
-		tooltip.style('opacity', '1');
-
-		const hoverMark = d3.select('#hoverMark').style('opacity', '1');
-
-		console.log('mouseEnter', datum);
+		setVisiblity(1);
 	}
 
 	function handleMouseLeave(datum) {
-		const tooltip = d3.select('#tooltip');
-
-		tooltip.style('opacity', '0');
-		console.log('mouseLeave', datum);
+		// const tooltip = d3.select('#tooltip');
+		// tooltip.style('opacity', '0');
+		// console.log('mouseLeave', datum);
+		setVisiblity(0);
 	}
 
 	return (
@@ -140,10 +140,10 @@ function Map() {
 			<div>
 				<div
 					id="tooltip"
-					className="p-3 bg-red-400"
+					className="p-3 bg-red-400 rounded-md shadow-md"
 					style={{
-						opacity: 0,
-            width: 'max-content',
+						opacity: `${visiblity}`,
+						width: 'max-content',
 						position: 'relative',
 						zIndex: 1000,
 						top: hoverData.y,
@@ -152,7 +152,7 @@ function Map() {
 				>
 					<div id="country">{hoverData.country}</div>
 					<div id="stat">
-						<span id="value">
+						<span id="value" style={{ textAlign: 'center' }}>
 							{hoverData.stat == '..'
 								? 'No Data'
 								: hoverData.stat + '%'}
@@ -231,7 +231,7 @@ function Map() {
 						cy={hoverData.y}
 						r={4}
 						fill="red"
-						style={{ opacity: 0 }}
+						style={{ opacity: `${visiblity}` }}
 					></circle>
 				</svg>
 			</div>
