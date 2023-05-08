@@ -89,6 +89,9 @@ function Map() {
 		setColourScale(() => colourScale);
 	}, [metricDataByCountry]);
 
+	const legendWidth = 120;
+	const legendHeight = 20;
+
 	return (
 		<div
 			ref={ref}
@@ -106,13 +109,6 @@ function Map() {
 					<clipPath id="map_sphere">
 						<path d={geoPath(sphere)} />
 					</clipPath>
-				</defs>
-
-				<defs>
-					<linearGradient id="gradient">
-						<stop offset="0%" stopColor="#e4e4e8" />
-						<stop offset="100%" stopColor="#61ad47" />
-					</linearGradient>
 				</defs>
 
 				{/* Draw the earth */}
@@ -159,28 +155,57 @@ function Map() {
 				</g>
 			</svg>
 
+			{/* Draw Legend */}
 			<div style={{ margin: '1rem 0 0 0' }}>
-				<h5>{metric}</h5>
-				<div style={{ display: 'flex' }}>
-					<span>
-            0%
-          </span>		
-					<svg>
-						{/* Draw Legend */}
-						<g>
-							<rect
-								height={16}
-								width={190}
-								style={{
-									fill: 'url(#gradient)',
-								}}
-							></rect>
-						</g>
-					</svg>
-					<span>
-            {d3.max(Object.values(metricDataByCountry))}%
-          </span>		
-				</div>
+				<h6
+					style={{
+						textAlign: 'center',
+						padding: '0.5rem 0',
+						fontFamily: 'sans-serif',
+					}}
+				>
+					{metric}
+				</h6>
+				{/* <span>{d3.max(Object.values(metricDataByCountry))}%</span> */}
+				<svg height={legendHeight} width={dimensions.boundedWidth}>
+					<defs>
+						<linearGradient id="gradient">
+							<stop offset="0%" stopColor="#e4e4e8" />
+							<stop offset="100%" stopColor="#61ad47" />
+						</linearGradient>
+					</defs>
+					<g>
+						<rect
+							x={dimensions.boundedWidth / 2 - legendWidth / 2}
+							height={legendHeight}
+							width={legendWidth}
+							style={{
+								fill: 'url(#gradient)',
+							}}
+						></rect>
+						<text
+							x={
+								dimensions.boundedWidth / 2 -
+								legendWidth / 2 -
+								19
+							}
+							y={legendHeight - 5}
+						>
+							0
+						</text>
+						<text
+							x={
+								dimensions.boundedWidth / 2 +
+								legendWidth / 2 +
+								30
+							}
+							y={legendHeight - 5}
+							style={{ textAnchor: 'end' }}
+						>
+							{d3.max(Object.values(metricDataByCountry))}
+						</text>
+					</g>
+				</svg>
 			</div>
 		</div>
 	);
