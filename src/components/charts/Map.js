@@ -16,6 +16,12 @@ function Map() {
 	const [worldBankData, setWorldBankData] = useState(null);
 	const [metricDataByCountry, setMetricDataByCountry] = useState({});
 	const [colourScale, setColourScale] = useState();
+	const [hoverData, setHoverData] = useState({
+		country: 'nil',
+		stat: 'nil',
+		x: 0,
+		y: 0,
+	});
 
 	// # D3 Setup Params
 	const [ref, dimensions] = useChartDimensions({});
@@ -92,6 +98,34 @@ function Map() {
 	const legendWidth = 120;
 	const legendHeight = 20;
 
+	// Interaction functions
+	function handleMouseEnter(datum) {
+		const tooltip = d3.select('#tooltip');
+		const countryId = countryIDAccessor(datum);
+		const metricValue = metricDataByCountry[countryId] || 'nil';
+		const [x, y] = geoPath.centroid(datum);
+
+		setHoverData({
+			country: countryNameAccessor(datum),
+			stat: metricValue,
+			x: x,
+			y: y,
+		});
+
+		tooltip.style('opacity', '1');
+
+		const hoverMark = d3.select('#hoverMark').style('opacity', '1');
+
+		console.log('mouseEnter', datum);
+	}
+
+	function handleMouseLeave(datum) {
+		const tooltip = d3.select('#tooltip');
+
+		tooltip.style('opacity', '0');
+		console.log('mouseLeave', datum);
+	}
+
 	return (
 		<div
 			ref={ref}
@@ -103,57 +137,104 @@ function Map() {
 				alignItems: 'center',
 			}}
 		>
-			<svg width={dimensions.boundedWidth} height={height}>
-				<defs>
-					{/* Everything outside the circle will be clipped and therefore invisible. */}
-					<clipPath id="map_sphere">
-						<path d={geoPath(sphere)} />
-					</clipPath>
-				</defs>
+			<div>
+				<div
+					id="tooltip"
+					className="p-3 bg-red-400"
+					style={{
+						opacity: 0,
+            width: 'max-content',
+						position: 'relative',
+						zIndex: 1000,
+						top: hoverData.y,
+						left: hoverData.x,
+					}}
+				>
+					<div id="country">{hoverData.country}</div>
+					<div id="stat">
+						<span id="value">
+							{hoverData.stat == '..'
+								? 'No Data'
+								: hoverData.stat + '%'}
+						</span>{' '}
+					</div>
+				</div>
 
-				{/* Draw the earth */}
-				<path d={geoPath(sphere)} fill="#4761ad" color="#f2f2f7"></path>
+				<svg width={dimensions.boundedWidth} height={height}>
+					<defs>
+						{/* Everything outside the circle will be clipped and therefore invisible. */}
+						<clipPath id="map_sphere">
+							<path d={geoPath(sphere)} />
+						</clipPath>
+					</defs>
 
-				{/* Draw the countries within the boundries established by clipPath*/}
-
-				<g clipPath="url(#map_sphere)">
-					{/* Draw some graticules */}
+					{/* Draw the earth */}
 					<path
-						d={geoPath(d3.geoGraticule10())}
-						fill="none"
-						stroke="#fff"
-						strokeWidth="0.5"
-						strokeOpacity="0.5"
-					/>
+						d={geoPath(sphere)}
+						fill="#4761ad"
+						color="#f2f2f7"
+					></path>
 
-					{/* Draw the countries */}
-					{geodata &&
-						colourScale &&
-						geodata.features.map((feature, i) => {
-							{
-								/* Get the metric data. If the value is "..", assign 0 val */
-							}
-							const metricValue =
-								metricDataByCountry[
-									countryIDAccessor(feature)
-								] || -1;
+					{/* Draw the countries within the boundries established by clipPath*/}
 
-							return (
-								<path
-									key={i}
-									d={geoPath(feature)}
-									fill={colourScale(metricValue)}
-									stroke="#e4e4e8"
-									strokeWidth="0.5"
-									opacity={metricValue ? 1 : 0.5}
-									onMouseOver={() =>
-										console.log('feature', feature)
-									}
-								/>
-							);
-						})}
-				</g>
-			</svg>
+					<g clipPath="url(#map_sphere)">
+						{/* Draw some graticules */}
+						<path
+							d={geoPath(d3.geoGraticule10())}
+							fill="none"
+							stroke="#fff"
+							strokeWidth="0.5"
+							strokeOpacity="0.5"
+						/>
+
+						{/* Draw the countries */}
+						{geodata &&
+							colourScale &&
+							geodata.features.map((feature, i) => {
+								{
+									/* Get the metric data. If the value is "..", assign 0 val */
+								}
+								const metricValue =
+									metricDataByCountry[
+										countryIDAccessor(feature)
+									] || -1;
+
+								return (
+									<path
+										key={countryNameAccessor(feature)}
+										d={geoPath(feature)}
+										fill={colourScale(metricValue)}
+										stroke="#e4e4e8"
+										strokeWidth="0.5"
+										opacity={metricValue ? 1 : 0.5}
+										onMouseEnter={() => {
+											console.log(
+												'mouseEnter',
+												countryNameAccessor(feature)
+											);
+											handleMouseEnter(feature);
+										}}
+										onMouseLeave={() => {
+											console.log(
+												'mouseLeave',
+												countryNameAccessor(feature)
+											);
+											handleMouseLeave(feature);
+										}}
+									/>
+								);
+							})}
+					</g>
+					<circle
+						id="hoverMark"
+						cx={hoverData.x}
+						cy={hoverData.y}
+						r={4}
+						fill="red"
+						style={{ opacity: 0 }}
+					></circle>
+				</svg>
+			</div>
 
 			{/* Draw Legend */}
 			<div style={{ margin: '1rem 0 0 0' }}>
