@@ -140,7 +140,7 @@ function Map() {
 			<div>
 				<div
 					id="tooltip"
-					className="p-3 bg-red-400 rounded-md shadow-md"
+					className="p-3 bg-orange-200 rounded-md shadow-md"
 					style={{
 						opacity: `${visiblity}`,
 						width: 'max-content',
@@ -150,14 +150,17 @@ function Map() {
 						left: hoverData.x,
 					}}
 				>
-					<div id="country">{hoverData.country}</div>
-					<div id="stat">
-						<span id="value" style={{ textAlign: 'center' }}>
-							{hoverData.stat == '..'
-								? 'No Data'
-								: hoverData.stat + '%'}
-						</span>{' '}
-					</div>
+					<h1
+						id="country"
+						className="font-semibold text-sm text-center"
+					>
+						{hoverData.country}
+					</h1>
+					<h6 id="stat" className="font-thin text-xs text-center">
+						{hoverData.stat == '..'
+							? 'No Data'
+							: hoverData.stat + '%'}
+					</h6>
 				</div>
 
 				<svg width={dimensions.boundedWidth} height={height}>
@@ -239,11 +242,7 @@ function Map() {
 			{/* Draw Legend */}
 			<div style={{ margin: '1rem 0 0 0' }}>
 				<h6
-					style={{
-						textAlign: 'center',
-						padding: '0.5rem 0',
-						fontFamily: 'sans-serif',
-					}}
+          className="text-xs font-bold text-gray-600 py-2 text-center"
 				>
 					{metric}
 				</h6>
@@ -271,6 +270,7 @@ function Map() {
 								19
 							}
 							y={legendHeight - 5}
+							className="text-xs font-light text-gray-600"
 						>
 							0
 						</text>
@@ -282,6 +282,7 @@ function Map() {
 							}
 							y={legendHeight - 5}
 							style={{ textAnchor: 'end' }}
+							className="text-xs font-light text-gray-600"
 						>
 							{d3.max(Object.values(metricDataByCountry))}
 						</text>
