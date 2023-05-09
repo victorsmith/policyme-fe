@@ -6,10 +6,7 @@ import * as d3 from 'd3';
 
 import geo_data from '../../../public/data/world-geojson2.json';
 import wb_data from '../../../public/data/wb_food_data.json';
-
 import useChartDimensions from '@/hooks/useChartDimensions';
-
-function HoverBox({}) {}
 
 function Map() {
 	const [geodata, setGeodata] = useState(null);
@@ -32,14 +29,10 @@ function Map() {
 		.fitWidth(dimensions.boundedWidth, sphere);
 
 	const geoPath = d3.geoPath(projection);
-
-	console.log('dimensions', dimensions);
-
+	
 	// size the svg to fit the height of the map
 	const [[x0, y0], [x1, y1]] = geoPath.bounds(sphere);
 	const height = y1;
-
-	console.log('height', height);
 
 	// Accessor Functions
 	const countryNameAccessor = (d) => d.properties.NAME;
@@ -59,12 +52,6 @@ function Map() {
 	}, []);
 
 	useEffect(() => {
-		if (geodata) {
-			2;
-			console.log('geodata', geodata);
-			console.log('wb_data', worldBankData);
-		}
-
 		if (worldBankData) {
 			let metricTemp = {};
 			worldBankData.forEach((d, i) => {
@@ -73,7 +60,7 @@ function Map() {
 					metricTemp[d['Country Code']] = d['2016 [YR2016]'] || 0;
 				}
 			});
-			console.log('# metricTemp', metricTemp);
+			// console.log('# metricTemp', metricTemp);
 			setMetricDataByCountry(metricTemp);
 		}
 	}, [geodata, worldBankData]);
@@ -92,7 +79,6 @@ function Map() {
 			.domain(domainValues)
 			.range(['#000000', '#e4e4e8', '#61ad47']);
 
-		console.log('metricDataByCountry', metricDataByCountry);
 		setColourScale(() => colourScale);
 	}, [metricDataByCountry]);
 
@@ -106,10 +92,6 @@ function Map() {
 		const metricValue = metricDataByCountry[countryId] || 'nil';
 		const [x, y] = geoPath.centroid(datum);
 
-		// tooltip.style('opacity', '1');
-		// const hoverMark = d3.select('#hoverMark').style('opacity', '1');
-		// console.log('mouseEnter', datum);
-
 		setHoverData({
 			country: countryNameAccessor(datum),
 			stat: metricValue,
@@ -120,9 +102,6 @@ function Map() {
 	}
 
 	function handleMouseLeave(datum) {
-		// const tooltip = d3.select('#tooltip');
-		// tooltip.style('opacity', '0');
-		// console.log('mouseLeave', datum);
 		setVisiblity(0);
 	}
 
@@ -211,17 +190,9 @@ function Map() {
 										strokeWidth="0.5"
 										opacity={metricValue ? 1 : 0.5}
 										onMouseEnter={() => {
-											console.log(
-												'mouseEnter',
-												countryNameAccessor(feature)
-											);
 											handleMouseEnter(feature);
 										}}
 										onMouseLeave={() => {
-											console.log(
-												'mouseLeave',
-												countryNameAccessor(feature)
-											);
 											handleMouseLeave(feature);
 										}}
 									/>
@@ -241,9 +212,7 @@ function Map() {
 
 			{/* Draw Legend */}
 			<div style={{ margin: '1rem 0 0 0' }}>
-				<h6
-          className="text-xs font-bold text-gray-600 py-2 text-center"
-				>
+				<h6 className="text-xs font-bold text-gray-600 py-2 text-center">
 					{metric}
 				</h6>
 				{/* <span><svg></svg><span> */}

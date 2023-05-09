@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 
 import HomeFeature from '@/components/HomeFeature';
 import Map from '@/components/charts/Map';
+import Scatterplot from '@/components/charts/Scatterplot';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -20,7 +21,11 @@ export default function Home() {
         </h1>
 			</div> */}
 			<HomeFeature></HomeFeature>
+			<br></br>
 			<Map></Map>
+			<br></br>
+			<Scatterplot></Scatterplot>
+			
 		</main>
 	);
 }
